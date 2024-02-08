@@ -1,3 +1,3 @@
-Creacion de un carrito de compras con el framework React para e-commerce 
+Creacion de un carrito de compras con React para e-commerce 
 ***Adolfo Dorantes Nazario***
 
